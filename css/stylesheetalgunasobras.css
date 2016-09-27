@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+}
+
+article {
+	display: block;
+}
+
+body {
+	background-color: #E6DAC0;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+.banner {
+	width: 100%;
+	border: solid red;
+	border-radius: 7px;
+}
+
+.port {
+	display: flex;
+	border: solid #F66C16;
+    border-radius: 7px;
+}
+
+.text p {
+    text-align: justify;
+    font-size: 1.5em;
+}
+
+figure {
+	display: block;
+}

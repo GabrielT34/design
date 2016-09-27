@@ -1,0 +1,88 @@
+a {
+	text-decoration: none;
+}
+
+.artistas {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	border: solid #F66C16;
+	border-radius: 7px;
+
+}
+
+.artistas figure {
+	margin: 0;
+	width: 50%;
+}
+
+.artistas-img {
+	width: 300px;
+	height: 302px;
+
+}
+
+body {
+	background-color: #E6DAC0;
+}
+
+.container {
+	display: flex;
+}
+
+
+.col {
+	width: 50%;
+}
+
+embed {
+	width: 100%;
+	border: solid red;
+	border-radius: 7px;
+}
+
+.obras {
+	width: 250px;
+	height: 250px;
+}
+
+.port {
+	display: flex;
+	border: solid #F66C16;
+	border-radius: 7px;
+}
+
+.text p {
+	text-align: justify;
+}
+
+.title {
+	display: flex;
+}
+
+.title a {
+	width: 100%;
+}
+
+.title a h1 {
+	font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.tapa-img {
+	width: 250px;
+	height: 350px;
+}
+
+.tapa {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.tapa figure {
+	margin: 0 auto;
+	width: 25%;
+}
